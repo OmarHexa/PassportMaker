@@ -1,4 +1,3 @@
-# Passport Maker
 # Passport Photo Maker App
 
 Welcome to the Passport Photo Maker App! This application allows you to easily create passport photos using AI-powered image processing techniques.
